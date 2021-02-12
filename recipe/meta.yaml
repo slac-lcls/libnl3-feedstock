@@ -1,4 +1,4 @@
-{% set name = "libnl" %}
+{% set name = "libnl3" %}
 {% set version = "3.2.28" %}
 
 package:
