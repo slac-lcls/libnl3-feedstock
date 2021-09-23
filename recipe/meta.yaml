@@ -13,6 +13,7 @@ source:
     - ./0002-msg-peek-by-default-rh1396882.patch
     - ./typedef.patch
     - ./in6.patch
+    - ./bison.patch
 
 build:
   skip: True  # [win or osx]
